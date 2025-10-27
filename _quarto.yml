@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CoMP-MRS"
+  navbar:
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Study Team
+        href: study-team.qmd
+      - text: Data
+        href: data.qmd
+    right:
+      - icon: github
+        href: https://github.com/markmikkelsen/CoMP-MRS-website/
+        target: _blank
+        rel: noopener
+  repo-url: https://github.com/markmikkelsen/CoMP-MRS-website/
+  repo-branch: "main"
+  repo-actions: source
+      
+  back-to-top-navigation: true
+
+include-after-body: "footer.html"
+
+format:
+  html:
+    theme:
+      light: [cosmo, _theme-light.scss]
+      dark: [cosmo, _theme-dark.scss]
+    css: _styles.css
+    highlight-style: tango
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    code-copy: true
+
+execute:
+  freeze: auto
+  
+editor: source
+  
+  
+  

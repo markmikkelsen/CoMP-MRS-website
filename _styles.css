@@ -1,0 +1,20 @@
+/* ----- Main ----- */
+body .main-container {
+  max-width: 850px;
+}
+
+code {
+  color: #000000;
+  background-color: rgba(0, 0, 0, 0.07);
+}
+/* ---------------- */
+
+/* ----- Code blocks ----- */
+/* This enables wrapping of code blocks */
+pre.sourceCode code {
+  white-space: pre-wrap;
+}
+/* ----------------------- */
+
+
+

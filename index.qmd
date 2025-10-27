@@ -1,0 +1,33 @@
+---
+title: "Collaborative Multi-Center Preclinical MRS Study (CoMP-MRS)"
+date: today
+bibliography: references.bib
+csl: american-medical-association.csl
+link-citations: true
+---
+
+![](imgs/logo.png){width="70%" fig-align="left"}
+
+## Summary
+
+In this international collaborative project, we seek to gather the rodent (rat and mouse) MRS community toward performing a multi-center comparison of ^1^H MRS techniques with the overriding goal of developing and establishing guidelines for best methodological practices in preclinical MRS research. Inspired by the multi-site fMRI study of the rat brain led by Joanes Grandjean [@Grandjean2023], we want to examine the distribution of neurochemical concentrations and spectral quality measures at the population level within the healthy rodent brain across sites, as well as establish best practices for preclinical MRS methods.
+
+To do so, we will gather a “retrospective dataset” of short-echo time (TE) rodent brain MRS data from individual labs (*n* = 8 rats/mice per lab, any protocol, volume of interest in either hippocampus or striatum). Going further, we will seek to obtain additional datasets pertaining to within-lab test-retest assessment (i.e., scans that were collected in the same control animals within a period of 6 months or less). Finally, we would like to organize a standardized data collection arm of this study for labs interested (a “prospective dataset”). This would include the de novo acquisition of a dataset (*n* = 8) using predefined, mutually-agreed, and standardized parameters consistent across all participating labs.
+
+**The overall objective of this work is to establish an openly available repository of rodent brain MRS data for researchers, to publish an extensive description of the collective dataset in a peer-reviewed journal, and provide a “standardized” protocol for rat and mouse brain MRS that will enable the acquisition of reproducible and reliable MRS datasets.**
+
+## Goals
+
+-   To provide a large rat/mouse ^1^H MRS collective dataset at short TE
+-   To describe reference population data parameter distributions (e.g., SNR, linewidth, signal model fit error, metabolite concentrations, etc.)
+-   To provide evidence-based recommendations for ^1^H MRS acquisitions in two brain regions (hippocampus and striatum) of rats and mice
+-   To provide standardized processing and quantification steps/tools that can be performed with available software options
+-   To foster collaborations and discussion across the preclinical MRS community by enabling close communications among researchers
+-   To demonstrate test-retest reliability of preclinical MRS data
+-   To determine whether the reproducibility/variability of neurochemical concentration estimates is improved when all data are collected using a standardized protocol (2nd data submission) compared to when the data were not standardized (1st data submission)
+-   To investigate the human-factor variability during data acquisition using a standardized protocol
+-   To organize an international seminar on ^1^H MRS data standardization of the rodent brain at EPFL
+-   To make all data, processing scripts, and analysis scripts openly available to the community via an online repository (e.g., OpenNeuro, GitHub, etc.)
+
+
+

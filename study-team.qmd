@@ -1,0 +1,29 @@
+---
+title: "Study Team"
+date: today
+---
+
+The CoMP-MRS project is lead by an international consortium of collaborators who have research interests in preclinical MRS.
+
+## Team leads
+
+### Principal investigators
+
+- Jamie Near (PI) (Sunnybrook Research Institute/Toronto University)
+- Cristina Cudalbu (PI) (École polytechnique fédérale de Lausanne, EPFL)
+  
+### Co-investigators
+
+- Diana Rotaru (Medical University of Vienna)
+- Mark Mikkelsen (Weill Cornell Medicine)
+
+## Collaborating sites/investigators
+
+- Site name 1
+  - Senior investigator
+  - Junior investigator
+  
+- Site name 2
+  - Senior investigator
+  - Junior investigator
+  
