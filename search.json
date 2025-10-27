@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "study-team.html",
+    "href": "study-team.html",
+    "title": "Study Team",
+    "section": "",
+    "text": "The CoMP-MRS project is lead by an international consortium of collaborators who have research interests in preclinical MRS."
+  },
+  {
+    "objectID": "study-team.html#team-leads",
+    "href": "study-team.html#team-leads",
+    "title": "Study Team",
+    "section": "Team leads",
+    "text": "Team leads\n\nPrincipal investigators\n\nJamie Near (PI) (Sunnybrook Research Institute/Toronto University)\nCristina Cudalbu (PI) (École polytechnique fédérale de Lausanne, EPFL)\n\n\n\nCo-investigators\n\nDiana Rotaru (Medical University of Vienna)\nMark Mikkelsen (Weill Cornell Medicine)"
+  },
+  {
+    "objectID": "study-team.html#collaborating-sitesinvestigators",
+    "href": "study-team.html#collaborating-sitesinvestigators",
+    "title": "Study Team",
+    "section": "Collaborating sites/investigators",
+    "text": "Collaborating sites/investigators\n\nSite name 1\n\nSenior investigator\nJunior investigator\n\nSite name 2\n\nSenior investigator\nJunior investigator"
+  },
+  {
     "objectID": "data.html#data-storage",
     "href": "data.html#data-storage",
     "title": "Data",
@@ -26,26 +47,5 @@
     "title": "Collaborative Multi-Center Preclinical MRS Study (CoMP-MRS)",
     "section": "Goals",
     "text": "Goals\n\nTo provide a large rat/mouse 1H MRS collective dataset at short TE\nTo describe reference population data parameter distributions (e.g., SNR, linewidth, signal model fit error, metabolite concentrations, etc.)\nTo provide evidence-based recommendations for 1H MRS acquisitions in two brain regions (hippocampus and striatum) of rats and mice\nTo provide standardized processing and quantification steps/tools that can be performed with available software options\nTo foster collaborations and discussion across the preclinical MRS community by enabling close communications among researchers\nTo demonstrate test-retest reliability of preclinical MRS data\nTo determine whether the reproducibility/variability of neurochemical concentration estimates is improved when all data are collected using a standardized protocol (2nd data submission) compared to when the data were not standardized (1st data submission)\nTo investigate the human-factor variability during data acquisition using a standardized protocol\nTo organize an international seminar on 1H MRS data standardization of the rodent brain at EPFL\nTo make all data, processing scripts, and analysis scripts openly available to the community via an online repository (e.g., OpenNeuro, GitHub, etc.)"
-  },
-  {
-    "objectID": "study-team.html",
-    "href": "study-team.html",
-    "title": "Study Team",
-    "section": "",
-    "text": "The CoMP-MRS project is lead by an international consortium of collaborators who have research interests in preclinical MRS."
-  },
-  {
-    "objectID": "study-team.html#team-leads",
-    "href": "study-team.html#team-leads",
-    "title": "Study Team",
-    "section": "Team leads",
-    "text": "Team leads\n\nPrincipal investigators\n\nJamie Near (PI) (Sunnybrook Research Institute/Toronto University)\nCristina Cudalbu (PI) (École polytechnique fédérale de Lausanne, EPFL)\n\n\n\nCo-investigators\n\nDiana Rotaru (Medical University of Vienna)\nMark Mikkelsen (Weill Cornell Medicine)"
-  },
-  {
-    "objectID": "study-team.html#collaborating-sitesinvestigators",
-    "href": "study-team.html#collaborating-sitesinvestigators",
-    "title": "Study Team",
-    "section": "Collaborating sites/investigators",
-    "text": "Collaborating sites/investigators\n\nSite name 1\n\nSenior investigator\nJunior investigator\n\nSite name 2\n\nSenior investigator\nJunior investigator"
   }
 ]
